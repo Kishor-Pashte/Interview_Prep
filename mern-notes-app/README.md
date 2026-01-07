@@ -1,36 +1,39 @@
 📝 MERN Notes App
 
-A full-stack Notes application built with the MERN stack (MongoDB, Express, React, Node.js) that allows you to create, read, update, and delete notes with authentication.
+    A full-stack Notes application built with the MERN stack (MongoDB, Express, React, Node.js) that allows you to create, read, update, and delete notes with authentication.
+    
 
 🚀 Features
 
-🔐 User Authentication: Signup & Login with JWT
+    🔐 User Authentication: Signup & Login with JWT
+    
+    🗒️ CRUD Operations: Add, view, edit, and delete notes
+    
+    🔒 Protected Routes: Only logged-in users can access notes
+    
+    🎨 Responsive UI: Clean and simple interface using React
 
-🗒️ CRUD Operations: Add, view, edit, and delete notes
-
-🔒 Protected Routes: Only logged-in users can access notes
-
-🎨 Responsive UI: Clean and simple interface using React
 
 🛠 Tech Stack
 
-Frontend: React
+    Frontend: React
+    
+    Backend: Node.js, Express.js
+    
+    Database: MongoDB
+    
+    Authentication: JWT
+    
+    HTTP Requests: Axios
 
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: JWT
-
-HTTP Requests: Axios
 
 🎯 Usage
 
-Signup with your email & password
-
-Login to access your notes
-
-Add new notes, edit existing ones, or delete them
+    Signup with your email & password
+    
+    Login to access your notes
+    
+    Add new notes, edit existing ones, or delete them
 
 📂 Project Structure
 Mini_Projects/
